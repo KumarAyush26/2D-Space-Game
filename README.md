@@ -39,12 +39,6 @@ Take control of a rocket and carefully maneuver through space to land safely on 
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your gameplay screenshots here)*
-
----
-
 ## 🛠️ Built With
 
 - **Engine:** [Unity](https://unity.com/)
