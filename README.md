@@ -49,7 +49,7 @@ Take control of a rocket and carefully maneuver through space to land safely on 
 
 ### Prerequisites
 
-- Unity **2021.3 LTS** or later *(update to match your version)*
+- Unity **2021.3 LTS** 
 
 ### Running the Game
 
