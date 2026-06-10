@@ -24,8 +24,6 @@ Take control of a rocket and carefully maneuver through space to land safely on 
 | `A` / `←` | Rotate Left |
 | `D` / `→` | Rotate Right |
 
-> *(Controls may vary — update this section to match your actual key bindings)*
-
 ---
 
 ## 🌌 Features
@@ -87,8 +85,6 @@ Take control of a rocket and carefully maneuver through space to land safely on 
 | Level 1 | Introduction — simple open path |
 | Level 2 | Narrow passages and tighter landings |
 | Level 3+ | More complex layouts and obstacles |
-
-> *(Update with your actual level descriptions)*
 
 ---
 
